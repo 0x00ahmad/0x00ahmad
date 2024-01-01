@@ -17,7 +17,7 @@ Currently, I am working on a few personal projects. I will post things relevant 
 - I can grasp new concepts and adapt very quickly to my environment
 - Started using Arch linux for the memes, ended using it until now (It's the best Linux derivative I've used)
 
-You can find me on (Twitter)[https://twitter.com/0x00ahmad] primarily if you want to talk about anything.
+You can find me on [Twitter](https://twitter.com/0x00ahmad) primarily if you want to talk about anything.
 
 If you want to discuss something or inquire, then you can send a message to contact@ahmadrehan.com
 
