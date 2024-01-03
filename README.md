@@ -9,7 +9,7 @@ I am currently pursing 3 Bachelors degrees , which are
   - Computer Science (online)
   - Data Science & AI (online)
 
-Currently, I am working on a few personal projects. I will post things relevant to it on (YouTube)[#] or my (Web Desktop)[#] as I progress further in them.
+Currently, I am working on a few personal projects. I will post things relevant to it on [Youtube](#) or my [Web Desktop](#) as I progress further in them.
 
 ### Random things that interest me enough to put them here
 
