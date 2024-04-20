@@ -4,12 +4,11 @@ The name's ahmad, a 19 year old student in Finland, and with an interest in soft
 
 ### 📚 Education & 💻 Work
 
-I am currently pursing 3 Bachelors degrees , which are
+I am currently pursing 2 Bachelors degrees:
   - Electrical Engineering (primary, offline)
-  - Computer Science (online)
   - Data Science & AI (online)
 
-Currently, I am working on a few personal projects. I will post things relevant to it on my [Personale site](https://ahmadrehan.com) (W.I.P) as I progress further in them.
+Currently, I am working on a few personal projects. I will post things relevant to it on my [Personal site](https://ahmadrehan.com) (W.I.P) as I progress further in them.
 
 ### Random things that interest me enough to put them here
 
