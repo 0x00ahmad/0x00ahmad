@@ -1,4 +1,4 @@
-# Hei 👋
+# Hi 👋
 
 The name's ahmad, a 19 year old student in Finland, and with an interest in software, performance and architecture.
 
