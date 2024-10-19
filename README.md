@@ -1,6 +1,6 @@
 # Hi 👋
 
-The name's ahmad, a 19 year old student in Finland, and with an interest in software, performance, architecture, hardware etc. the full package.
+The name's ahmad, a 20 year old student in Finland, and with an interest in software, performance, architecture, hardware etc. the full package.
 
 Working @ [Microvisit](https://microvisit.com)
 
