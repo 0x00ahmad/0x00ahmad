@@ -1,9 +1,7 @@
 # Hi 👋
 
-The name's ahmad, a 20 year old student in Finland, and with an interest in software, performance, architecture, hardware etc. the full package.
+I'm a 20 year old student in Finland, Interest lies in software & business. 
 
-The usual place to reach out to me is [Twitter](https://twitter.com/0x00ahmad)
-
-If you want to discuss something or inquire, then you can send a message to contact@ahmadrehan.com
+Sadly, got infected with the AI hypetrain so now I also dabble with LLMs.
 
 <!-- This is a comment... yes -->
